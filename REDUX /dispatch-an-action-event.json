@@ -1,0 +1,1 @@
+{"index.jsx":"const store = Redux.createStore(\n  (state = {login: false}) => state\n);\n\nconst loginAction = () => {\n  return {\n    type: 'LOGIN'\n  }\n};\n\n// Dispatch the action here:\nstore.dispatch(loginAction())"}

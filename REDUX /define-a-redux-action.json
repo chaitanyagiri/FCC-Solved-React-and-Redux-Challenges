@@ -1,0 +1,1 @@
+{"index.jsx":"// Define an action here:\nlet action = {\n    type:'LOGIN'\n}"}

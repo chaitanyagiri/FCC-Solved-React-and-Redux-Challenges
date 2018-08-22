@@ -1,0 +1,1 @@
+{"index.jsx":"\nclass App extends React.Component {\n  constructor(props) {\n    super(props);\n  }\n  render() {\n    return <div/>\n  }\n};\n\n// change code below this line\nReactDOMServer.renderToString(<App />);"}
